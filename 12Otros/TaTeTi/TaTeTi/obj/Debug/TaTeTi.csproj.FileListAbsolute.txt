@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\TaTeTi\TaTeTi\bin\Debug\TaTeTi.exe.config
+C:\Users\usuario\source\repos\TaTeTi\TaTeTi\bin\Debug\TaTeTi.exe
+C:\Users\usuario\source\repos\TaTeTi\TaTeTi\bin\Debug\TaTeTi.pdb
+C:\Users\usuario\source\repos\TaTeTi\TaTeTi\obj\Debug\TaTeTi.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\TaTeTi\TaTeTi\obj\Debug\TaTeTi.exe
+C:\Users\usuario\source\repos\TaTeTi\TaTeTi\obj\Debug\TaTeTi.pdb
+C:\Users\User\Downloads\TaTeTi\TaTeTi\bin\Debug\TaTeTi.exe.config
+C:\Users\User\Downloads\TaTeTi\TaTeTi\bin\Debug\TaTeTi.exe
+C:\Users\User\Downloads\TaTeTi\TaTeTi\bin\Debug\TaTeTi.pdb
+C:\Users\User\Downloads\TaTeTi\TaTeTi\obj\Debug\TaTeTi.csprojAssemblyReference.cache
+C:\Users\User\Downloads\TaTeTi\TaTeTi\obj\Debug\TaTeTi.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\TaTeTi\TaTeTi\obj\Debug\TaTeTi.exe
+C:\Users\User\Downloads\TaTeTi\TaTeTi\obj\Debug\TaTeTi.pdb
